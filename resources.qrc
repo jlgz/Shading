@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/toonfshader1.glsl</file>
+        <file>resources/toonvshader1.glsl</file>
+        <file>resources/phongvshader1.glsl</file>
+        <file>resources/phongfshader1.glsl</file>
+        <file>resources/gouraudvshader1.glsl</file>
+        <file>resources/gouraudfshader1.glsl</file>
+        <file>resources/phongvshaderTexture.glsl</file>
+        <file>resources/phongfshaderTexture.glsl</file>
+        <file>resources/gouraudvshaderTexture.glsl</file>
+        <file>resources/gouraudfshaderTexture.glsl</file>
+        <file>resources/textures/2k_earth_daymap.jpg</file>
+        <file>resources/textures/earth3.png</file>
+        <file>resources/textures/2k_earth_normal_map.tif</file>
+    </qresource>
+</RCC>
